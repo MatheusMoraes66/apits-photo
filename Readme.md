@@ -17,7 +17,7 @@ Fiz esse projeto para treinar meus conhecimentos sobre api, ele tem a função d
 
 - execute o  em seu terminal, em uma pasta de sua preferencia.
 
-`git clone `
+`git clone https://github.com/MatheusMoraes66/apits-photo.git`
 
 Esse comando faz um clonagem do projeto em seu dispositivo.
 
